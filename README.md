@@ -12,4 +12,4 @@ Features-
 
 -> Mobile Responsive
 
--> Dynamic user information
+-> Dynamic user information, Display it in Navbar
